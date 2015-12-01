@@ -1,6 +1,8 @@
 Pokémon Showdown
 ========================================================================
 
+[![Join the chat at https://gitter.im/DaniellMesquita/Pokemon-Showdown-Server-Template](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DaniellMesquita/Pokemon-Showdown-Server-Template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Navigation: [Website][1] | **Server repository** | [Client repository][2]
 
   [1]: http://pokemonshowdown.com/
